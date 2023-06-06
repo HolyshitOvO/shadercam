@@ -3,8 +3,14 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/shadercam.iml" filepath="$PROJECT_DIR$/shadercam.iml" />
-      <module fileurl="file://$PROJECT_DIR$/shadercam-example/shadercam-example.iml" filepath="$PROJECT_DIR$/shadercam-example/shadercam-example.iml" />
-      <module fileurl="file://$PROJECT_DIR$/shadercam/shadercam-shadercam.iml" filepath="$PROJECT_DIR$/shadercam/shadercam-shadercam.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shadercam/shadercam.shadercam.iml" filepath="$PROJECT_DIR$/.idea/modules/shadercam/shadercam.shadercam.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shadercam-example/shadercam.shadercam-example.iml" filepath="$PROJECT_DIR$/.idea/modules/shadercam-example/shadercam.shadercam-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shadercam-example/shadercam.shadercam-example.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/shadercam-example/shadercam.shadercam-example.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shadercam-example/shadercam.shadercam-example.main.iml" filepath="$PROJECT_DIR$/.idea/modules/shadercam-example/shadercam.shadercam-example.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shadercam-example/shadercam.shadercam-example.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/shadercam-example/shadercam.shadercam-example.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shadercam/shadercam.shadercam.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/shadercam/shadercam.shadercam.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shadercam/shadercam.shadercam.main.iml" filepath="$PROJECT_DIR$/.idea/modules/shadercam/shadercam.shadercam.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shadercam/shadercam.shadercam.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/shadercam/shadercam.shadercam.unitTest.iml" />
     </modules>
   </component>
 </project>
